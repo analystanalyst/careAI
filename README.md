@@ -1,2 +1,2 @@
 # careAI
-Patient-centered contextual healthcare intelligence that serves Intelligent Early Pregnancy Loss Detection and Referral Optimization System 
+Patient-centered contextual healthcare intelligence that serves for maternal dataset
